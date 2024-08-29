@@ -1,1 +1,1 @@
-print("hello how are you?")
+print("It will do auto build using scm")
